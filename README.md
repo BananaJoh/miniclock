@@ -1,4 +1,4 @@
-# miniclock
+# miniClock
 Simple, frameless digital clock widget with transparent background using Qt5.
 
 ## Features
