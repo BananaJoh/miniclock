@@ -1,5 +1,5 @@
 # miniClock
-Simple, frameless digital clock widget with transparent background using Qt5.  
+Simple, frameless digital clock widget with transparent background using Qt5  
 Designed for use as a well-readable, clean-looking system clock for a multi-monitor configuration.
 
 ## Features
