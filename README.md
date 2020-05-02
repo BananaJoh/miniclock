@@ -4,7 +4,7 @@ Designed for use as a well-readable, clean-looking system clock for a multi-moni
 
 ## Features
 * Always stays on top
-* Seven-segment display look
+* 7-segment display look
 * Displays current system time in hh:mm format
 * Right click context menu
   * Customizable font color (ARGB)
